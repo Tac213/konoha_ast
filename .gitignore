@@ -1,0 +1,20 @@
+# Python byte code file
+__pycache__/
+*.pyc
+
+# Python venv
+.venv
+
+# vim files
+*.swp
+*.swo
+
+# log files
+*.log
+
+*.egg-info/
+
+.DS_Store
+
+# build files
+build/
